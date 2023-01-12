@@ -13,8 +13,10 @@
 
 ## Second part: Remotely Connecting
 
+![Image]()
+
 1. In the terminal of VSCode, enter the command ssh cs15lwi23<span style="color:red;">adm</span>@ieng6.ucsd.edu.
-Noting that each person has a unique account letter, which is adm in my case, which can be found in [your specific course account](https://sdacs.ucsd.edu/~icc/index.php)
+Noting that each person has a unique account letter following "cs15lwi23", which can be found in [your specific course account](https://sdacs.ucsd.edu/~icc/index.php)
 
 ![Image]()
 
