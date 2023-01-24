@@ -14,12 +14,12 @@
 
 ## Second part: Remotely Connecting
 
-* In the terminal, enter the command ssh cs15lwi23<span style="color:red;">adm</span>@ieng6.ucsd.edu.
+* In the terminal, enter the command `ssh cs15lwi23adm@ieng6.ucsd.edu`.
 Noting that each person has a unique account letter following "cs15lwi23", which can be found in [your specific course account](https://sdacs.ucsd.edu/~icc/index.php)
 
 ![Image](Images/2.png)
 
-* When you connect to the remote computer via the terminal, it will prompt you with the message "Are you want to continue connecting (yes/no/[fingerprint])?". Simply type "yes" and press enter.
+* When you connect to the remote computer via the terminal, it will prompt you with the message `Are you want to continue connecting (yes/no/[fingerprint])?`. Simply type `yes` and press enter.
 * You will then be prompted to enter your password. Try using the password associated with your tritonlink account first. If the password is incorrect, you will need to reset it on the course-specific website mentioned earlier. Please note that it may take a few minutes for the password reset to take effect.
 
 ![Image](Images/3.png)
