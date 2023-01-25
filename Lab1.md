@@ -28,8 +28,11 @@ Noting that each person has a unique account letter following "cs15lwi23", which
 
 ![Image](Images/6.png)
 
-* Once you have successfully logged in, enter the following command on the remote computer and compare it to the command on your local computer.
-
+*Once logged into my account on the classroom computer, we can enter various following commands in the terminal including
+- `ls` to list the files and directories in the current directory
+- `ls -lat` to display detailed information about all files
+- `pwd` to display the current working directory
+- `cp` to copy a file from a public directory to my personal account
 ---
 
 ## Third Step: git, Github, and Github Pages
