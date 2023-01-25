@@ -26,7 +26,7 @@ Noting that each person has a unique account letter following "cs15lwi23", which
 
 * If you're unable to login to the remote computer, don't worry, some people may be able to login on the first try, some people may need to try a few times.
 
-![Image](Images/6.png)
+![Image](Images/resubmitVersion.png)
 
 *Once logged into my account on the classroom computer, we can enter various following commands in the terminal including
 - `ls` to list the files and directories in the current directory
