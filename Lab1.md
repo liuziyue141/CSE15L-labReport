@@ -25,17 +25,23 @@ Noting that each person has a unique account letter following "cs15lwi23", which
 ![Image](Images/3.png)
 
 * If you're unable to login to the remote computer, don't worry, some people may be able to login on the first try, some people may need to try a few times.
-
+---
+## Third part:
 ![Image](Images/resubmitVersion.png)
 
-*Once logged into my account on the classroom computer, we can enter various following commands in the terminal including
-- `ls` to list the files and directories in the current directory
-- `ls -lat` to display detailed information about all files
-- `pwd` to display the current working directory
-- `cp` to copy a file from a public directory to my personal account
+*Once logged into my account on the classroom computer, we can enter the following commands on both your personal computer and school computer:
+- `cd ~` to navigate to the home directory
+- `cd` to navigate to the previous directory
+- `ls -lat` to list the files in the current directory, sorted by modification time
+- `ls -a` to list all files, including hidden ones, in the current directory
+- `ls <directory>` where <directory> is `/home/linux/ieng6/cs15lwi23/cs15lwi23abc`, where the `abc` is one of the other group members’ usernames
+- `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/` to copy the file `hello.txt` to the home directory
+- `cat /home/linux/ieng6/cs15lwi23/public/hello.txt` to view the contents of the file 'hello.txt'
+*Entering `ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc` in either the home computer or the remote computer terminal will not allow you to access to others’ accounts on the remote computer. 
+*However, for the command `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`, the document `hello.txt` is only accessible on the remote computer. This is because the document is saved in the public directory of the remote computer. To access this document, you need to log into your account on the remote computer first.
 ---
 
-## Third Step: git, Github, and Github Pages
+## Fourth part: git, Github, and Github Pages
 
 * First, ensure that you have a GitHub account associated with your UCSD email, and sign in. If you do not have a GitHub account, please follow the instructions on the website to sign up.
 
