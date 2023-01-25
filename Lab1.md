@@ -29,7 +29,7 @@ Noting that each person has a unique account letter following "cs15lwi23", which
 ## Third part:
 ![Image](Images/resubmitVersion.png)
 
-*Once logged into my account on the classroom computer, we can enter the following commands on both your personal computer and school computer:
+* Once logged into my account on the classroom computer, we can enter the following commands on both your personal computer and school computer:
 - `cd ~` to navigate to the home directory
 - `cd` to navigate to the previous directory
 - `ls -lat` to list the files in the current directory, sorted by modification time
