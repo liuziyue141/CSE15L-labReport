@@ -1,5 +1,4 @@
 # Lab Report
----
 
 ## First part: Install VScode
 
@@ -9,8 +8,6 @@
 ![Image](Images/1.png)
 
 * After downloading and installing, open Visual Studio Code
-
----
 
 ## Second part: Remotely Connecting
 
@@ -26,7 +23,6 @@ Noting that each person has a unique account letter following "cs15lwi23", which
 
 * If you're unable to login to the remote computer, don't worry, some people may be able to login on the first try, some people may need to try a few times.
 
----
 ## Third part:
 ![Image](Images/resubmitVersion.png)
 
@@ -41,7 +37,6 @@ Noting that each person has a unique account letter following "cs15lwi23", which
 * Entering `ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc` in either the home computer or the remote computer terminal will not allow you to access to others’ accounts on the remote computer. 
 * However, for the command `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`, the document `hello.txt` is only accessible on the remote computer. This is because the document is saved in the public directory of the remote computer. To access this document, you need to log into your account on the remote computer first.
 
----
 ## Fourth part: git, Github, and Github Pages
 
 * First, ensure that you have a GitHub account associated with your UCSD email, and sign in. If you do not have a GitHub account, please follow the instructions on the website to sign up.
