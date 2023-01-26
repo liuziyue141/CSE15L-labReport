@@ -35,10 +35,10 @@ class StringServer {
 * The code in StringServer shows that every time the server is accessed, the method "handleRequest" in Handler3 will be invoked.
 * It illustrates how the server functions when the path "/add-message?s=<string>" is entered, the server will print the previous message, along with the new message represented by <string> in the query.
   
-![image first add](Report2.1.jpg)
+![image first add](Images/Report2.1.png)
 * This is done by instantiating a global String variable called "result". Initially, the "result" is empty, but when the path "/add-message?s=Hello,world" is entered, the "result" is updated to include the new message "Hello,world/n". As a result, we can see the message "Hello,world" in the first picture. 
 
-![image second add](Report2.2.jpg)
+![image second add](Images/Report2.2.png)
 * Subsequently, when the path "/add-message?s=Nice Java Nice" is entered, "result" is updated to add "Nice Java Nice/n" to its existing content "Hello,world/n" resulting in "Hello,world/nNice Java Nice". As the result we see “Hello,world” <next line> “Nice Java Nice” in the second picture.
 
 ## Second Part
@@ -67,7 +67,7 @@ class StringServer {
 * The second test case, testRverseInPlace2(), uses an expanded array of {2,3} and the expected outcome is {3,2}. 
 * However, the actual result is {3,3}. 
   
-![image second add](Report2.3.jpg)
+![image second add](Images/Report2.3.png)
 
 **Symptom**: After conducting additional tests, it appears that the symptom with the code is that it does not correctly reverse the order of elements in the array. Instead it assigns the value of the second half of the elements to the first half, without assigning the value of the first half to the second half.
 
