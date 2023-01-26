@@ -67,7 +67,7 @@ class StringServer {
 * The second test case, testRverseInPlace2(), uses an expanded array of {2,3} and the expected outcome is {3,2}. 
 * However, the actual result is {3,3}. 
   
-![image second add]()
+![image second add](Images/Report2.3.png)
 
 **Symptom**: After conducting additional tests, it appears that the symptom with the code is that it does not correctly reverse the order of elements in the array. Instead it assigns the value of the second half of the elements to the first half, without assigning the value of the first half to the second half.
 
