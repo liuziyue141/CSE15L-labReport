@@ -85,7 +85,7 @@ It's worth noting that the '-i' option differs from the '-w' option in that it d
 I would like to acknowledge the sources that I have referred to including ChatGPT, the 'man grep' manual page, and the website GreekForGreek.
 
 * Specifically, here is a question I asked to chatGPT and here is its response. 
-![ChatGPT]()
+![ChatGPT](Images/ChatGpt.png)
 
 Additionally, here is the link to the GreekForGreek website: https://www.geeksforgeeks.org/grep-command-in-unixlinux/
 
