@@ -20,4 +20,4 @@ git push origin main
 * Our secret to avoiding any shortcut methodologies is after SSH'ing into the remote computer, we copy all the commands to the terminal in the beginning using "Ctrl+C." The terminal will then run all the commands sequentially and automatically, allowing us to avoid any shortcuts while still completing the task efficiently.
 
 **here is a snapshot of our results**
-!image[result]()
+!image[result](images/result.png)
