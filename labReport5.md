@@ -35,16 +35,16 @@ printf "grade:     %d/%d\n" $Passed $TotalTester
 * To calculate the number of passed tests, the script uses arithmetic expansion with the $(($TotalCount - $notPassed)) to subtract the number of passed from the total number of tests. 
 * Finally, the printf command is used to print the results in a more readable format compared to using echo.
 
-Here is a screenshot of the tester file:
-![tester](image.jpg)
+## Here is a screenshot of the tester file:
+![tester](Images/tester.jpg)
 ## Corrected Implementation:
-	![correct](images/correct.jpg)
+![correct](Images/correct.jpg)
 ## Partial correct Implementation with logic bug:
-	![pc1](images/pc1.jpg)
-	![pc2](images/pc2.jpg)
+![pc1](Images/pc1.jpg)
+![pc2](Images/pc2.jpg)
 ## Implementation with compile error:
- 	![ce1](images/ce1.jpg)
-	![ce2](images/ce2.jpg)
-	![ce3](images/ce3.jpg)
- 	![ce4](images/ce4.jpg)
- 	![ce5](images/ce5.jpg)
+![ce1](Images/ce1.jpg)
+![ce2](Images/ce2.jpg)
+![ce3](Images/ce3.jpg)
+![ce4](Images/ce4.jpg)
+![ce5](Images/ce5.jpg)
