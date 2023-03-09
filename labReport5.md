@@ -47,4 +47,3 @@ printf "grade:     %d/%d\n" $Passed $TotalTester
 ![ce2](Images/ce2.jpg)
 ![ce3](Images/ce3.jpg)
 ![ce4](Images/ce4.jpg)
-![ce5](Images/ce5.jpg)
