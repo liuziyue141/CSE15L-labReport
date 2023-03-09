@@ -38,13 +38,13 @@ printf "grade:     %d/%d\n" $Passed $TotalTester
 Here is a screenshot of the tester file:
 ![tester](image.jpg)
 ## Corrected Implementation:
-	![correct](image.jpg)
+	![correct](correct.jpg)
 ## Partial correct Implementation with logic bug:
-	![pc1](image.jpg)
-  ![pc2](image.jpg)
+	![pc1](pc1.jpg)
+	![pc2](pc2.jpg)
 ## Implementation with compile error:
- 	![ce1](image.jpg)
-	![ce2](image.jpg)
-  ![ce3](image.jpg)
- 	![ce4](image.jpg)
- 	![ce5](image.jpg)
+ 	![ce1](ce1.jpg)
+	![ce2](ce2.jpg)
+	![ce3](ce3.jpg)
+ 	![ce4](ce4.jpg)
+ 	![ce5](ce5.jpg)
